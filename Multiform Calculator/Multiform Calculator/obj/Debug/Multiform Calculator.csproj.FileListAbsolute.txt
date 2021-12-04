@@ -1,0 +1,24 @@
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.exe.config
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.exe
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.pdb
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csprojAssemblyReference.cache
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.AddSubtractForm.resources
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.MainForm.resources
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.Properties.Resources.resources
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csproj.GenerateResource.cache
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csproj.CoreCompileInputs.cache
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.exe
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.pdb
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.exe.config
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.exe
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.pdb
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csprojAssemblyReference.cache
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.AddSubtractForm.resources
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.MainForm.resources
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.Properties.Resources.resources
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csproj.GenerateResource.cache
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csproj.CoreCompileInputs.cache
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.exe
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.pdb
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.FrmAddSubtract.resources
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.FrmMultDivide.resources
