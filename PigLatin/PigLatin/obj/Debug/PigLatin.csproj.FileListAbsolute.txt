@@ -1,0 +1,30 @@
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework  8 Solution\PigLatin\PigLatin\obj\Debug\PigLatin.csprojAssemblyReference.cache
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework  8 Solution\PigLatin\PigLatin\obj\Debug\PigLatin.Form1.resources
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework  8 Solution\PigLatin\PigLatin\obj\Debug\PigLatin.Properties.Resources.resources
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework  8 Solution\PigLatin\PigLatin\obj\Debug\PigLatin.csproj.GenerateResource.cache
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework  8 Solution\PigLatin\PigLatin\obj\Debug\PigLatin.csproj.CoreCompileInputs.cache
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework  8 Solution\PigLatin\PigLatin\bin\Debug\PigLatin.exe.config
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework  8 Solution\PigLatin\PigLatin\bin\Debug\PigLatin.exe
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework  8 Solution\PigLatin\PigLatin\bin\Debug\PigLatin.pdb
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework  8 Solution\PigLatin\PigLatin\obj\Debug\PigLatin.exe
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework  8 Solution\PigLatin\PigLatin\obj\Debug\PigLatin.pdb
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework 8 Solution\PigLatin\PigLatin\bin\Debug\PigLatin.exe.config
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework 8 Solution\PigLatin\PigLatin\bin\Debug\PigLatin.exe
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework 8 Solution\PigLatin\PigLatin\bin\Debug\PigLatin.pdb
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework 8 Solution\PigLatin\PigLatin\obj\Debug\PigLatin.csprojAssemblyReference.cache
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework 8 Solution\PigLatin\PigLatin\obj\Debug\PigLatin.Form1.resources
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework 8 Solution\PigLatin\PigLatin\obj\Debug\PigLatin.Properties.Resources.resources
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework 8 Solution\PigLatin\PigLatin\obj\Debug\PigLatin.csproj.GenerateResource.cache
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework 8 Solution\PigLatin\PigLatin\obj\Debug\PigLatin.csproj.CoreCompileInputs.cache
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework 8 Solution\PigLatin\PigLatin\obj\Debug\PigLatin.exe
+E:\BillyFlash\C#Fall19\Chapters\Chapter 8\Homework 8 Solution\PigLatin\PigLatin\obj\Debug\PigLatin.pdb
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 8\PigLatin\PigLatin\PigLatin\bin\Debug\PigLatin.exe.config
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 8\PigLatin\PigLatin\PigLatin\bin\Debug\PigLatin.exe
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 8\PigLatin\PigLatin\PigLatin\bin\Debug\PigLatin.pdb
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 8\PigLatin\PigLatin\PigLatin\obj\Debug\PigLatin.csprojAssemblyReference.cache
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 8\PigLatin\PigLatin\PigLatin\obj\Debug\PigLatin.Form1.resources
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 8\PigLatin\PigLatin\PigLatin\obj\Debug\PigLatin.Properties.Resources.resources
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 8\PigLatin\PigLatin\PigLatin\obj\Debug\PigLatin.csproj.GenerateResource.cache
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 8\PigLatin\PigLatin\PigLatin\obj\Debug\PigLatin.csproj.CoreCompileInputs.cache
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 8\PigLatin\PigLatin\PigLatin\obj\Debug\PigLatin.exe
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 8\PigLatin\PigLatin\PigLatin\obj\Debug\PigLatin.pdb
