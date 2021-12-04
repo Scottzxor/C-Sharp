@@ -1,0 +1,20 @@
+E:\BillyFlash\C#Fall19\Chapters\Chapter 7\Homework 7 Solution\Name Search\Name Search\obj\Debug\Name Search.csprojAssemblyReference.cache
+E:\BillyFlash\C#Fall19\Chapters\Chapter 7\Homework 7 Solution\Name Search\Name Search\obj\Debug\Name_Search.Form1.resources
+E:\BillyFlash\C#Fall19\Chapters\Chapter 7\Homework 7 Solution\Name Search\Name Search\obj\Debug\Name_Search.Properties.Resources.resources
+E:\BillyFlash\C#Fall19\Chapters\Chapter 7\Homework 7 Solution\Name Search\Name Search\obj\Debug\Name Search.csproj.GenerateResource.cache
+E:\BillyFlash\C#Fall19\Chapters\Chapter 7\Homework 7 Solution\Name Search\Name Search\obj\Debug\Name Search.csproj.CoreCompileInputs.cache
+E:\BillyFlash\C#Fall19\Chapters\Chapter 7\Homework 7 Solution\Name Search\Name Search\bin\Debug\Name Search.exe.config
+E:\BillyFlash\C#Fall19\Chapters\Chapter 7\Homework 7 Solution\Name Search\Name Search\bin\Debug\Name Search.exe
+E:\BillyFlash\C#Fall19\Chapters\Chapter 7\Homework 7 Solution\Name Search\Name Search\bin\Debug\Name Search.pdb
+E:\BillyFlash\C#Fall19\Chapters\Chapter 7\Homework 7 Solution\Name Search\Name Search\obj\Debug\Name Search.exe
+E:\BillyFlash\C#Fall19\Chapters\Chapter 7\Homework 7 Solution\Name Search\Name Search\obj\Debug\Name Search.pdb
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 7\Name Search\Name Search\Name Search\bin\Debug\Name Search.exe.config
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 7\Name Search\Name Search\Name Search\bin\Debug\Name Search.exe
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 7\Name Search\Name Search\Name Search\bin\Debug\Name Search.pdb
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 7\Name Search\Name Search\Name Search\obj\Debug\Name Search.csprojAssemblyReference.cache
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 7\Name Search\Name Search\Name Search\obj\Debug\Name_Search.Form1.resources
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 7\Name Search\Name Search\Name Search\obj\Debug\Name_Search.Properties.Resources.resources
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 7\Name Search\Name Search\Name Search\obj\Debug\Name Search.csproj.GenerateResource.cache
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 7\Name Search\Name Search\Name Search\obj\Debug\Name Search.csproj.CoreCompileInputs.cache
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 7\Name Search\Name Search\Name Search\obj\Debug\Name Search.exe
+D:\COLLIN COLLEGE\PRIMARY SPRING 2021\C#\Homework Assignments\Lesson 7\Name Search\Name Search\Name Search\obj\Debug\Name Search.pdb
